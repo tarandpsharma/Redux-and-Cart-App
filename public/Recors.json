@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdn.pixabay.com/photo/2011/03/01/03/55/iron-5112_960_720.jpg",
+    "text": "Price: $150",
+    "price": 150,
+    "rating": 3 ,
+    "title": "Iron",
+    "btn": "Buy Now",
+    "alt": "iron",
+    "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+  },
+  {
+    "id": 2,
+    "img": "https://cdn.pixabay.com/photo/2020/05/08/09/23/appliance-5144884_960_720.jpg",
+    "text": "Price: $60",
+    "price": 60,
+    "rating": 1,
+    "title": "Microwave",
+    "btn": "Buy Now",
+    "alt": "microwave",
+    "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1571552879083-e93b6ea70d1d?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=an_vision-kf0GtI-wKDo-unsplash.jpg",
+    "text": "Price: $90",
+    "price": 90,
+    "rating": 5,
+    "title": "Teapot",
+    "btn": "Buy Now",
+    "alt": "teapot",
+    "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+  }, 
+  {
+    "id": 1,
+    "img": "https://cdn.pixabay.com/photo/2011/03/01/03/55/iron-5112_960_720.jpg",
+    "text": "Price: $150",
+    "price": 150,
+    "rating": 4,
+    "title": "Press",
+    "btn": "Buy Now",
+    "alt": "iron",
+    "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+  },
+  {
+    "id": 2,
+    "img": "https://cdn.pixabay.com/photo/2020/05/08/09/23/appliance-5144884_960_720.jpg",
+    "text": "Price: $60",
+    "price": 60,
+    "rating": 4,
+    "title": "Electric Cooker",
+    "btn": "Buy Now",
+    "alt": "microwave",
+    "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1571552879083-e93b6ea70d1d?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=an_vision-kf0GtI-wKDo-unsplash.jpg",
+    "text": "Price: $90",
+    "price": 90,
+    "rating": 2,
+    "title": "Kettle",
+    "btn": "Buy Now",
+    "alt": "teapot",
+    "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+  }
+,
+{
+  "id": 1,
+  "img": "https://cdn.pixabay.com/photo/2011/03/01/03/55/iron-5112_960_720.jpg",
+  "text": "Price: $150",
+  "price": 150,
+  "rating": 3,
+  "title": "Clothes Cleaner",
+  "btn": "Buy Now",
+  "alt": "iron",
+  "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+},
+{
+  "id": 2,
+  "img": "https://cdn.pixabay.com/photo/2020/05/08/09/23/appliance-5144884_960_720.jpg",
+  "text": "Price: $60",
+  "price": 60,
+  "rating": 4,
+  "title": "Pan",
+  "btn": "Buy Now",
+  "alt": "microwave",
+  "link": "https://www.amazon.com/s?k=elelctrical+appliances&crid=3LX86R1CQ0F4E&sprefix=elelctrical+appliance%2Caps%2C514&ref=nb_sb_noss_2"
+}
+
+]
